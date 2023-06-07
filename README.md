@@ -14,6 +14,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Pedro Sidaco - https://github.com/ppsidaco123/trabalho_lp
 - Eduarda Michaelle - https://github.com/EduardaMichaelle/ProjetoPreProcessador
+- Carla Correa, Léo Bruno - https://github.com/occarla/TrabalhoLP
 - Guilherme Rodrigues, JavaScript - https://github.com/guirque/Heap-Simulator
 - Erick Junqueira, Lucas Melo - https://github.com/LucasMelo131/garbagecollector
 - Claudio Rodrigues Nunes e Fábio Borges da Silva Gonçalves - [Endereço do Repositório](https://github.com/Delt4-Dev/Coletor-de-Lixo)
